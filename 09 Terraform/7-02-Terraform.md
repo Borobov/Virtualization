@@ -69,11 +69,16 @@ wget https://hashicorp-releases.yandexcloud.net/terraform/1.3.9/terraform_1.3.9_
 
 unzip terraform_1.3.9_linux_amd64.zip  
 
+![Задание 4_2](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/2.png)
 chmod 766 terraform  
 
+![Задание 4_3](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/3.png)
 cp terraform /usr/local/bin/  
 
+![Задание 4_4](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/4.png)
 terraform init
+
+![Задание 4_5](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/5.png)
 
 ---
 
