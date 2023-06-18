@@ -75,10 +75,12 @@ chmod 766 terraform
 ![Задание 4_3](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/3.png)
 cp terraform /usr/local/bin/  
 
-![Задание 4_4](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/4.png)
+![Задание 4_4](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/4.png)  
+![Задание 4_5](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/5.png)  
+
 terraform init
 
-![Задание 4_5](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/5.png)
+![Задание 4_6](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/6.png)
 
 ---
 
