@@ -1,0 +1,14 @@
+---
+- name: "DZ"
+  hosts: servernet
+  tasks:
+
+  - name: "Install Nginx"
+    apt:
+      name:
+        nginx
+      state: present
+  - name: "Change Index.html"
+    ansible.builtin.template:
+      src: "./index.html"
+      dest: "/var/www/html"
