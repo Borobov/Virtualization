@@ -65,7 +65,7 @@
 ### Ответ:
 wget https://hashicorp-releases.yandexcloud.net/terraform/1.3.9/terraform_1.3.9_linux_amd64.zip  
 
-https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/1.png
+![Задание 4_1](https://github.com/Borobov/Virtualization-Automation-and-CI-CD/blob/main/09%20Terraform/img-7-02/1.png)
 
 unzip terraform_1.3.9_linux_amd64.zip  
 
